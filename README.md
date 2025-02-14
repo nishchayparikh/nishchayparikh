@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nishchay Parikh</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 - 🌱 I’m currently learning **NextJS & NestJS**
 
 - 📝 I regularly write articles on [https://nishchayparikh02.medium.com/](https://nishchayparikh02.medium.com/)
 
-- 💬 Ask me about **GCP, Flask, Django, Flutter**
+- 💬 Ask me about **AWS, GCP, Flask, Django, Flutter**
 
 - 📫 How to reach me **nishchayparikh02@gmail.com**
 
